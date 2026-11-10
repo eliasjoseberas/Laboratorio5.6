@@ -4,7 +4,7 @@
 # Sistema de Inventario
 
 Este proyecto fue realizado en C# como parte del
-Laboratorio 5.6 de Fundamentos de Programación.
+Laboratorio 5.6 de la semana 5.
 
 ## Descripción
 
